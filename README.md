@@ -1,6 +1,5 @@
-### Hi there 👋 Dipto Shaha
-# I'm a MERN Stack Developer, Competitive Programmer
 
+<img src="banner.png">
 ## Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,8 +25,8 @@
 <div align="center">
 <a href="https://git.io/streak-stats" style="margin:auto;"><img src="https://streak-stats.demolab.com?user=Dipto-shaha&theme=dark" alt="GitHub Streak" /></a>
 </div>
-<div align="center">
+<div align="center; margin-top:5px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipto-shaha&theme=aura_dark" alt="GitHub Stats" />
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipto-shaha&theme=aura_dark" alt="Most Used Languages" />
-</div>
+</div>![Alt text](<Make your README.png>)
