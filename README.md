@@ -1,5 +1,6 @@
 
 <img src="banner.png">
+
 ## Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,8 +26,8 @@
 <div align="center">
 <a href="https://git.io/streak-stats" style="margin:auto;"><img src="https://streak-stats.demolab.com?user=Dipto-shaha&theme=dark" alt="GitHub Streak" /></a>
 </div>
-<div align="center; margin-top:5px;">
+<div align="center" style="margin-top: 10px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipto-shaha&theme=aura_dark" alt="GitHub Stats" />
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipto-shaha&theme=aura_dark" alt="Most Used Languages" />
-</div>![Alt text](<Make your README.png>)
+</div>
