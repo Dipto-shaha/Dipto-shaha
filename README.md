@@ -22,8 +22,10 @@
 - 💬 Love to talk about technology
 
 ## Current Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dipto-shaha&theme=dark" alt="GitHub Streak" /></a>
-<br>
+<div align="center">
+<a href="https://git.io/streak-stats" style="margin:auto;"><img src="https://streak-stats.demolab.com?user=Dipto-shaha&theme=dark" alt="GitHub Streak" /></a>
+</div>
+<div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipto-shaha&theme=aura_dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipto-shaha&theme=aura_dark)
+</div>
