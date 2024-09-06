@@ -3,7 +3,7 @@
 
 ## Technologies that I know
 <p align="center">
-  <table style="border: none;">
+  <table style="border: none; margin: 0 auto;">
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40px" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40px" /></td>
