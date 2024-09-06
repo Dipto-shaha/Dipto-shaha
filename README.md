@@ -3,9 +3,34 @@
 
 ## Technologies that I know
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,fastapi,nodejs,mongodb,css,tailwindcss,html,firebase,express" />
-  </a>
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="50px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwindcss" width="50px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50px" /></td>
+    </tr>
+    <tr>
+      <td align="center">Next.js</td>
+      <td align="center">React</td>
+      <td align="center">Redux</td>
+      <td align="center">FastAPI</td>
+      <td align="center">Node.js</td>
+      <td align="center">MongoDB</td>
+      <td align="center">CSS</td>
+      <td align="center">Tailwind</td>
+      <td align="center">HTML</td>
+      <td align="center">Firebase</td>
+      <td align="center">Express</td>
+    </tr>
+  </table>
 </p>
 
 ## Programming Languages:
