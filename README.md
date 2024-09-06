@@ -4,7 +4,7 @@
 ## Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,mongodb,css,tailwindcss,html,firebase,express" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,fastapi,nodejs,mongodb,css,tailwindcss,html,firebase,express" />
   </a>
 </p>
 
