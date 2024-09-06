@@ -3,19 +3,19 @@
 
 ## Technologies that I know
 <p align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50px" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50px" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="50px" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50px" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50px" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50px" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50px" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tailwindcss" width="50px" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50px" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50px" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="40px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwindcss" width="40px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40px" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40px" /></td>
     </tr>
     <tr>
       <td align="center">Next.js</td>
