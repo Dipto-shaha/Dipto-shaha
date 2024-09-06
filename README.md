@@ -4,7 +4,7 @@
 ## Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,css,tailwindcss,html,firebase,express" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,mongodb,css,tailwindcss,html,firebase,express" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 # Current overview
 - 🔭 I am currently a CSE undergraduate at the University of Dhaka.
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning System Design
 - 👯 I’m looking to collaborate on open source project
 - 💬 Love to talk about technology
 
